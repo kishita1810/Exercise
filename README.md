@@ -18,7 +18,7 @@ https://drive.google.com/drive/folders/1Vr8y7FfvKVYOuBIhyOoSQohqnHHtg1my?usp=sha
 ## Exe 3
 - I have no prior knowledge of Deep Learning or Machine Learning but still using various references and the solution provided I was able to implement till Data pre-processing.  
 
-## Refereences
+## References
 
 - http://wiki.ros.org/ROS/Tutorials/WritingPublisherSubscriber%28python%29
 - http://wiki.ros.org/ROS/Tutorials/WritingPublisherSubscriber%28c%2B%2B%29
