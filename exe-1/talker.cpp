@@ -11,7 +11,7 @@ int main(int argc, char **argv)
 
   ros::Publisher pub = n.advertise<efficiency_test::SuperMessage>("internship_exe1", 1000);
 
-  ros::Rate loop_rate(125);
+  ros::Rate loop_rate(10);
   int count = 0;
 
   while (ros::ok())
