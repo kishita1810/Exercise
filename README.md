@@ -6,7 +6,7 @@
 - Python Publisher with Python Subcriber : 30
 - Python Publisher with C++ Subscriber :37
 ## Exe 2: Using C++ capture images from webcam and apply canny edge filter
-- I had very little experience of C++ coding and thus I tried to write the code but due to some technical glitches or wrong setup I was not able to build and run the project.
+- I had very little experience of C++ coding and thus I tried to write the code but due to some technical glitches and wrong setup I was not able to build and run the project.
 - However, I was able to successfully implement the task using python.
 -  Video of output using Python:
 
