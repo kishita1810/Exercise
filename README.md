@@ -9,6 +9,7 @@
 - I had very little experience of C++ coding and thus I tried to write the code but due to some technical glitches or wrong setup I was not able to build and run the project
 - However, I was able to successfully implement the task using python
 -  Video of output using Python:
+
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/Zp_s-vLr7Js/0.jpg)](https://youtu.be/Zp_s-vLr7Js)
 
 - Google Drive Link with all the files
