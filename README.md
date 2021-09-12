@@ -15,7 +15,7 @@
 - Google Drive Link with all the files
 https://drive.google.com/drive/folders/1Vr8y7FfvKVYOuBIhyOoSQohqnHHtg1my?usp=sharing
 
-## Exe 3
+## Exe 3: Classifier capable of determining the class of the X-ray image
 - I had no prior knowledge of Deep Learning or Machine Learning but still using various references and the solution provided I was able to implement till Data pre-processing.
 - I have shared the link to Google Colab Notebook which I used to implement the task.  
 
